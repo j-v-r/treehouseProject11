@@ -1,0 +1,24 @@
+{
+  "name": "treehouse-project-11",
+  "version": "1.0.0",
+  "description": "Apply the skills learned for optimization of graphics, HTML, CSS, and JavaScript to take a poorly optimized site and reduce the total load size to under 1.3mb and total requests to less than 27. Students will need to analyze the assets they've been provided to see where optimizations can and need to be made, make those optimizations, and measure their success. Multiple analyzation, optimization, and measuring cycles may be required.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-v-r/treehouseProject11.git"
+  },
+  "author": "John R.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-v-r/treehouseProject11/issues"
+  },
+  "homepage": "https://github.com/j-v-r/treehouseProject11#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.2.0",
+    "gulp-concat": "^2.6.1"
+  }
+}
